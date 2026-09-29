@@ -2,3 +2,4 @@ Initial project data
 Adding a second line
 Adding a third line from GitHub web
 Adding a new feature
+Fixing the documentation issue
